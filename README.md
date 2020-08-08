@@ -1,7 +1,7 @@
-# StylusCraft [Resourcepack] :shipit:
+# StylusCraft [Resourcepack]
 <p align="left"><img src="https://styluscraft.tk/img/favicon.png" width="70"></p>
 <b>Un paquete de texturas personalizado desarrollado por los desarrolladores del servidor.</b><br>
-<b>Destinado a una mejor experiencia visual en styluscraft.tk</b>
+<b>Destinado a una mejor experiencia visual en styluscraft.tk</b> :shipit:
 <br>
 
 ¿Que mejoras nos trae para todos los jugadores?
