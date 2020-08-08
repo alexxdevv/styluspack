@@ -1,6 +1,6 @@
-# StylusCraft [Resourcepack]
+# StylusCraft [Resourcepack] :shipit:
 <p align="left"><img src="https://styluscraft.tk/img/favicon.png" width="70"></p>
-<b>Un paquete de texturas personalizado desarrollado por los desarrolladores del servidor.</b>
+<b>Un paquete de texturas personalizado desarrollado por los desarrolladores del servidor.</b><br>
 <b>Destinado a una mejor experiencia visual en styluscraft.tk</b>
 ---
 
