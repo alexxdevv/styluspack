@@ -1,5 +1,7 @@
 # StylusCraft [Resourcepack]
-![alt text](https://styluscraft.tk/img/favicon.png)
+<p align="center">
+  <img src="https://styluscraft.tk/img/favicon.png" width="350">
+</p>
 #### Un paquete de texturas personalizado desarrollado por los desarrolladores del servidor.
 #### Destinado a una mejor experiencia visual en styluscraft.tk
 ---
