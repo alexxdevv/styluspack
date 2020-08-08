@@ -1,5 +1,5 @@
 # StylusCraft [Resourcepack]
-[![Build Status](https://travis-ci.org/Querz/OpenShulkerBox.svg?branch=master)](https://travis-ci.org/Querz/OpenShulkerBox)
+![alt text](https://styluscraft.tk/img/favicon.png)
 #### Un paquete de texturas personalizado desarrollado por los desarrolladores del servidor.
 #### Destinado a una mejor experiencia visual en styluscraft.tk
 ---
