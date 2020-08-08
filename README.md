@@ -1,7 +1,7 @@
 # StylusCraft [Resourcepack]
 [![Build Status](https://travis-ci.org/Querz/OpenShulkerBox.svg?branch=master)](https://travis-ci.org/Querz/OpenShulkerBox)
-#### Un paquete de texturas personalizado desarrollado por KikicraftMC
-#### Destinado a una mejor experiencia en styluscraft.tk
+#### Un paquete de texturas personalizado desarrollado por los desarrolladores del servidor.
+#### Destinado a una mejor experiencia visual en styluscraft.tk
 ---
 
 ¿Que mejoras nos trae para todos los jugadores?:
