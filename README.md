@@ -12,4 +12,4 @@
 
 <br><a>Puedes entrar mediante la IP: `styluscraft.tk`</a>
 <br><br>
-<p><b>StylusCraft</b>, un servidor survival 1.16.1 donde lo pasarás en grande.</p>
+<p>- <b>StylusCraft</b>, un servidor survival 1.16.1 donde lo pasarás en grande.</p>
