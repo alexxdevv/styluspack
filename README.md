@@ -11,3 +11,5 @@
 * Texturas aleatorias para árboles, tierra y suelos.
 
 <br><a>Puedes entrar mediante la IP: `styluscraft.tk`</a>
+<br><br>
+<p>StylusCraft, un servidor survival 1.16.1 donde lo pasarás en grande.</p>
