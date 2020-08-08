@@ -9,3 +9,5 @@
 * `Buen rendimiento`, para todo tipo de pc's puedan soportarlo sin perder fps.
 * Buena calibración de aspecto incluso con shaders!
 * Texturas aleatorias para árboles, tierra y suelos.
+
+<br><a>Puedes entrar mediante la IP: `styluscraft.tk`</a>
